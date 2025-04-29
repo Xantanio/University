@@ -1,0 +1,1 @@
+Here Python is used to develop a client application that consumes de databases services to create tables, insert/delete data and call procedures.
